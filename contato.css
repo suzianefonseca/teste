@@ -1,0 +1,40 @@
+
+form {
+    display: flex;
+    justify-content: center;
+    margin-top: -1rem;
+    text-align: center;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(243, 22, 66);
+}
+
+body {
+    background-image:url(sorrindo.jpg);
+     background-size:cover
+    
+}
+
+
+.caixa {
+    align-items: center;
+    margin: 0.5rem;
+    
+}
+
+
+.botao {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 0.5px;
+}
+
+
+.voltar {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+
+}

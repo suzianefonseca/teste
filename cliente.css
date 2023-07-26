@@ -1,0 +1,27 @@
+ body{
+    font-family: arial, helvetica, sans-serif; 
+    font-size: 30px; 
+    font-size: 15px;
+    font-style: italic; 
+    font-style:initial ;
+     background-image: url(digitando2.jpg); 
+     background-size:cover; 
+     color: rgb(251, 1, 1);
+     margin: 10px;
+    
+ }
+      
+ style
+   body{
+    font-family: arial, helvetica, sans-serif; 
+      font-size: 20px; 
+      font-style: italic; 
+      font-style: inherit;
+
+ background-color: rgb(143, 6, 255);
+ }
+  a
+  { text-decoration:rgb(55, 2, 244);
+ color: rgb(23, 0, 234);
+ }
+  fieldset{ width: 100px; }
